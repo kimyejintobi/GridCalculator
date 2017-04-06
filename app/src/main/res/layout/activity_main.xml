@@ -25,6 +25,7 @@
         android:layout_gravity="center"
         >
     <Button
+        android:id="@+id/but_01"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="0"
@@ -32,6 +33,7 @@
         android:layout_column="1"
         />
     <Button
+        android:id="@+id/but_02"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="1"
@@ -39,6 +41,7 @@
         android:layout_column="2"
         />
     <Button
+        android:id="@+id/but_03"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="2"
@@ -46,6 +49,7 @@
         android:layout_column="3"
         />
     <Button
+        android:id="@+id/but_04"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="3"
@@ -53,6 +57,7 @@
         android:layout_column="4"
         />
     <Button
+        android:id="@+id/but_05"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="4"
@@ -61,6 +66,7 @@
         />
 
     <Button
+        android:id="@+id/but_06"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="5"
@@ -68,6 +74,7 @@
         android:layout_column="1"
         />
     <Button
+        android:id="@+id/but_07"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="6"
@@ -75,6 +82,7 @@
         android:layout_column="2"
         />
     <Button
+        android:id="@+id/but_08"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="7"
@@ -82,6 +90,7 @@
         android:layout_column="3"
         />
     <Button
+        android:id="@+id/but_09"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="8"
@@ -90,6 +99,7 @@
         />
 
     <Button
+        android:id="@+id/but_10"
         android:layout_width="70dp"
         android:layout_height="wrap_content"
         android:text="9"
@@ -111,6 +121,7 @@
         />
 
     <Button
+
         android:id="@+id/button7"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
